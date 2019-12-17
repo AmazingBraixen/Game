@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Unity Game",
+"productVersion": "0.1",
+"dataUrl": "Cube Runner DH.data.unityweb",
+"wasmCodeUrl": "Cube Runner DH.wasm.code.unityweb",
+"wasmFrameworkUrl": "Cube Runner DH.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.8f1"
+}
